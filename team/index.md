@@ -32,6 +32,12 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   component="portrait"
   filters="role: programmer"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: Healer"
+%}
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
