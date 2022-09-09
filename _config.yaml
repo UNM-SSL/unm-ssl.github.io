@@ -2,7 +2,7 @@
 
 # site properties and page defaults
 title: UNM Scalable Systems Laboratory
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+description: A research laboratory at the University of New Mexico specializing in research on large-scale and high performance computing systems.
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
@@ -11,12 +11,12 @@ baseurl: ""
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: patrickb@unm.edu
+  google-scholar: Patrick G. Bridges
+  github: UNM-SSL
+  #twitter: YourLabHandle
+  #instagram: YourLabHandle
+  youtube: UNM-SSL
 
 ### advanced settings
 
