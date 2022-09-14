@@ -4,25 +4,9 @@ title: Home
 
 # Your Lab Slogan
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+The Scalable Systems Lab is a research laboratory in the Computer Science Department at the University of New Mexico. 
+We collaborate closely with the UNM Center for Advanced Research Computing, the Scalable Computing Systems Department at Sandia National Laboratories, the Computer and Computational Sciences Division at Los Alamos National Laboratory, and research groups at a variety of corporations, for example Cray and Intel.
 
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
 {:.center}
 
 {% include section.html full=true %}
@@ -34,8 +18,8 @@ Spend less time reinventing the wheel, and more time running your lab.
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research focuses on research, design, and implementation of operating systems, runtime systems, libraries, and system services that enable complex, large scale applications. 
+Research in this area over the years has resulting in operating systems and communication services that form the basis of modern HPC operating systems.
 
 {%
   include link.html
