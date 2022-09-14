@@ -19,7 +19,7 @@ We collaborate closely with the UNM Center for Advanced Research Computing, the 
 
 {% capture text %}
 Our research focuses on research, design, and implementation of operating systems, runtime systems, libraries, and system services that enable complex, large scale applications. 
-Research in this area over the years has resulting in operating systems and communication services that form the basis of modern HPC operating systems.
+Research in this area over the years has resulted in operating systems and communication services that form the basis of modern HPC operating systems.
 
 {%
   include link.html
@@ -64,6 +64,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% capture text %}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Don't trust Donny.
 
 {%
   include link.html

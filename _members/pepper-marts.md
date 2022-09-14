@@ -14,4 +14,4 @@ links:
 
 Pepper Marts is PhD researcher at UNM's Scalable Systems Lab.
 He is also a year-round PhD intern at Sandia National Laboratories working with SSL allumus Matthew Dosanjh.
-He is a better student than Donnald Kruse.
+He is a better student than Donald Kruse.
