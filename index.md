@@ -27,8 +27,6 @@ Spend less time reinventing the wheel, and more time running your lab.
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
-
 {% include section.html %}
 
 # Highlights
@@ -61,8 +59,8 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {%
   include link.html
-  link="tools"
-  text="Browse our tools"
+  link="resources"
+  text="Browse our resources"
   icon="fas fa-arrow-right"
   flip=true
 %}
