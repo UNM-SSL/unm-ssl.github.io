@@ -12,4 +12,4 @@ links:
   <>instagram: uptonogoode
 ---
 
-Soheila is.
+Soheila is a PhD student in the University of New Mexico. She've got her masters from the Amirkabir Univeristy of Technology in Iran. Her research interest is 'Performance Analysis on Live Streaming Data'.   
