@@ -2,7 +2,7 @@
 name: Donald Kruse 
 image: images/member-DonaldKruse.jpg
 description: Graduate Student 
-role: Healer/
+role: Healer/Grad Student
 aliases:
   - Donny 
 links:
