@@ -46,15 +46,16 @@ The Scalable Systems Lab (UNM-SSL) is home to a diverse group of students and pr
 
 ## Join
 
-#### Post Dogtoral Researcher
+#### Post Doctoral Researcher
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The SSL is currently searching for a postdoctoral fellow to mentor on leading research at our DOE-funded Center for Understandable, Performant Exascale Communication Systems. The specific research topics the postdoc will work on depend on the candidate’s background, but will generally be in the area of:
+  1. Designing system software (both communication and runtime) for coupling multiple scientific codes together 
+  1. Developing new and optimizing existing communication primitives for DOE production codes, and/or 
+  1. Designing and implementing new benchmarks that are actually representative of the communication challenges faced by production codes. 
 
-- 3+ (dog) years experience managing bone portfolios
-- Strong desire to learn tricks and go on walkies
-- Aptitude to sit and stay
+The postdoc will work closely with Prof. Bridges, other SSL members, and our collaborators at other institutions, including our many national lab collaborators. The fellowship also includes a paid 10-week residency at an NNSA national laboratory.
 
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
+{% include link.html type="external" link="https://unm.csod.com/ux/ats/careersite/18/home/requisition/21893?c=unm" text="Apply Now" icon="" style="button" %}
 {:.center}
 
 {% include section.html %}
@@ -68,27 +69,19 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   style="square"
 
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
-  tooltip1="Cool Foundation"
+  image1="images/nsf.svg"
+  link1="https://www.nsf.gov/"
+  tooltip1="National Science Foundation"
 
-  image2="images/photo.jpg"
-  link2="https://nasa.gov/"
-  tooltip2="Cool Institute"
+  image2="images/psaap.png"
+  link2="https://psaap.llnl.gov/"
+  tooltip2="NNSA PSAAP-III Program"
 
-  image3="images/photo.jpg"
-  link3="https://nasa.gov/"
-  tooltip3="Cool Initiative"
+  image3="images/lanl.png"
+  link3="https://www.lanl.gov/"
+  tooltip3="Los Alamos National Laboratory"
 
-  image4="images/photo.jpg"
-  link4="https://nasa.gov/"
-  tooltip4="Cool Foundation"
-
-  image5="images/photo.jpg"
-  link5="https://nasa.gov/"
-  tooltip5="Cool Institute"
-
-  image6="images/photo.jpg"
-  link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
+  image4="images/sandia.svg"
+  link4="https://www.sandia.gov/"
+  tooltip4="Sandia National Laboratories"
 %}
