@@ -1,33 +1,34 @@
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  date: 2020-6-2
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-    - knowledge graphs
-
-- id: doi:10.1371/journal.pcbi.1007128
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-    - type: preprint
-      link: https://doi.org/10.7287/peerj.preprints.3100v1
-    - type: manubot
-      link: https://greenelab.github.io/scihub-manuscript/
-    - type: source
-      link: https://github.com/greenelab/scihub-manuscript
-      text: Manuscript source
-    - type: source
-      link: https://github.com/greenelab/scihub
-      text: Analyses source
+- id: doi: 10.1109/cluster48925.2021.00028
+- id: doi: 10.1109/escience51609.2021.00028
+- id: doi: 10.1109/PMBS51919.2020.00011
+- id: doi: 10.25827/5S8C-N515
+- id: doi: 10.1016/j.jcp.2019.109193
+- id: doi: 10.1109/CCGRID.2019.00035
+- id: doi: 10.1002/cpe.5158
+- id: doi: 10.1002/cpe.4341
+- id: doi: 10.1145/3225058.3225114
+- id: doi: 10.1007/978-3-319-96983-1\_34
+- id: doi: 10.1145/3225058.3225130
+- id: doi: 10.1109/CLUSTER.2017.99
+- id: doi: 10.1145/2931088.2931094
+- id: doi: 10.1145/2966884.2966920
+- id: doi: 10.1109/SC.2016.27
+- id: doi: 10.1109/CCGrid.2016.84
+- id: doi: 10.1109/CCGrid.2016.42
+- id: doi: 10.1007/978-3-319-50995-2\_16
+- id: doi: 10.1109/SC.2016.32
+- id: doi: 10.1177/1094342014560354
+- id: doi: 10.1145/2831129.2831134
+- id: doi: 10.1145/2768405.2768413
+- id: doi: 10.1109/CLUSTER.2015.55
+- id: doi: 10.1145/2768405.2768412
+- id: doi: 10.1016/j.future.2013.04.017
+- id: doi: 10.1145/2612262.2612269
+- id: doi: 10.1109/ICPP.2014.49
+- id: doi: 10.1007/s10586-013-0274-7
+- id: doi: 10.1145/2491661.2481428
+- id: doi: 10.1007/978-3-642-54420-0\_70
+- id: doi: 10.1145/2491661.2481432
+- id: doi: 10.1007/s10586-011-0178-3
+- id: doi: 10.1145/2465813.2465820
+- id: doi: 10.1145/2462902.2462912

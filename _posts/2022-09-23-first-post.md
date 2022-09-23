@@ -5,7 +5,7 @@ tags:
   - Systems
   - Scalable Systems
 author: Andres Quan
-member: Quan
+member: andres-quan
 ---
 
 # New Website
