@@ -6,8 +6,11 @@ nav:
 ---
 
 # <i class="fas fa-users"></i>Team
+-- Donny: currently editing
 
 The Scalable Systems Lab is a research laboratory in the Computer Science Department at the University of New Mexico. We collaborate closely with the UNM Center for Advanced Research Computing, the Scalable Computing Systems Department at Sandia National Laboratories, the Computer and Computational Sciences Division at Los Alamos National Laboratory, and research groups at a variety of corporations, for example Cray and Intel.
+
+The Scalable Systems Lab (UNM-SSL) is home to a diverse group of students and professionals. Their research includes on HPC Mapping, Network Performance Tuning, Performance Prediction, and other systems related work.
 
 {% include section.html %}
 
@@ -33,12 +36,11 @@ The Scalable Systems Lab is a research laboratory in the Computer Science Depart
   include list.html
   data="members"
   component="portrait"
-  filters="role: Healer"
+  filters="role: Healer/Grad Student"
 %}
 {:.center}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{% include section.html background="images/banner.jpg" dark=true%}
 
 {% include section.html %}
 
