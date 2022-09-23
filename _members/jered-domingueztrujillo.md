@@ -1,6 +1,6 @@
 ---
 name: Jered Dominguez-Trujillo
-image: images/member-JeredDominguezTrujillo.jpg
+image: images/member-JeredDominguezTrujillo.jpeg
 description: Graduate Student 
 role: phd
 aliases:
