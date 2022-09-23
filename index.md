@@ -29,7 +29,7 @@ Research in this area over the years has resulted in operating systems and commu
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/lab-space-pic.jpeg"
   link="research"
   title="Our Research"
   text=text
@@ -50,7 +50,7 @@ The resources and tools our lab maintains include research artifacts like operat
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/conference-space-pic.jpeg"
   link="resources"
   title="Our Resources"
   flip=true
@@ -72,7 +72,7 @@ Members of the SSL team include both its current and former leadership, the curr
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/student-office-pic.jpeg"
   link="team"
   title="Our Team"
   text=text
