@@ -22,9 +22,9 @@ The lab's mailing address is: Scalable Systems Lab Department of Computer Scienc
   include link.html
   type="phone"
   icon=""
-  text="(555) 867-5309"
+  text="(505) 277-3112"
   tooltip=""
-  link="+1-555-867-5309"
+  link="+1-505-277-3112"
   style="button"
 %}
 {%
