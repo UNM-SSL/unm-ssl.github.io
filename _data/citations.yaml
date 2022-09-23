@@ -432,3 +432,456 @@
   date: '2013-06-17'
   link: https://doi.org/gqvv7c
   _cache: 296166f280a2f5afb6d12d9948973367144f39751707d871e0d6ad865ee62105
+- id: doi:10.1109/ICPPW.2012.11
+  title: A Peer-to-Peer Architecture for Supporting Dynamic Shared Libraries in Large-Scale
+    Systems
+  authors:
+  - Matthew G.F. Dosanjh
+  - Patrick G. Bridges
+  - Susan M. Kelly
+  - James H. Laros III
+  publisher: 2012 41st International Conference on Parallel Processing Workshops
+  date: '2012-09-01'
+  link: https://doi.org/gqvv73
+  _cache: 1e57e9f3287fc6d47640d72382b975a8d13af8133efebd959a92998814d817c3
+- id: doi:10.1109/SC.2012.18
+  title: Alleviating scalability issues of checkpointing protocols
+  authors:
+  - Rolf Riesen
+  - Kurt Ferreira
+  - Duma Da Silva
+  - Pierre Lemarinier
+  - Dorian Arnold
+  - Patrick G. Bridges
+  publisher: 2012 International Conference for High Performance Computing, Networking,
+    Storage and Analysis
+  date: '2012-11-01'
+  link: https://doi.org/gqvv74
+  _cache: d180ec652847201c9ee8b092ea117084e6ccbcc5cd51560f28289a9730b91f35
+- id: doi:10.1109/DSNW.2012.6264669
+  title: Does partial replication pay off?
+  authors:
+  - Jon Stearley
+  - Kurt Ferreira
+  - David Robinson
+  - Jim Laros
+  - Kevin Pedretti
+  - Dorian Arnold
+  - Patrick Bridges
+  - Rolf Riesen
+  publisher: IEEE/IFIP International Conference on Dependable Systems and Networks
+    Workshops (DSN 2012)
+  date: '2012-06-01'
+  link: https://doi.org/gqvv75
+  _cache: 961730c6e959168d159327e3669e4395cd983e2bef9e29f9783812cb6c6a6b15
+- id: arxiv:1206.1390
+  title: Fault-tolerant linear solvers via selective reliability
+  authors:
+  - Patrick G. Bridges
+  - Kurt B. Ferreira
+  - Michael A. Heroux
+  - Mark Hoemmen
+  publisher: arXiv
+  date: '2012-06-08'
+  link: https://arxiv.org/abs/1206.1390
+  _cache: 3570b01b89206aaea112f2743c03979c5213757e2dec2ab5e57092488bcde41c
+- id: doi:10.1109/ICPP.2012.45
+  title: On the Viability of Compression for Reducing the Overheads of Checkpoint/Restart-Based
+    Fault Tolerance
+  authors:
+  - Dewan Ibtesham
+  - Dorian Arnold
+  - Patrick G. Bridges
+  - Kurt B. Ferreira
+  - Ron Brightwell
+  publisher: 2012 41st International Conference on Parallel Processing
+  date: '2012-09-01'
+  link: https://doi.org/gqvv76
+  _cache: 24cc78841d263c8fa4ed8a06db6eb6dd5b1b7d136dea3a2c4bec637efbb25e0b
+- id: doi:10.1109/SC.2012.88
+  title: Optimizing overlay-based virtual networking through optimistic interrupts
+    and cut-through forwarding
+  authors:
+  - Zheng Cui
+  - Lei Xia
+  - Patrick G. Bridges
+  - Peter A. Dinda
+  - John R. Lange
+  publisher: 2012 International Conference for High Performance Computing, Networking,
+    Storage and Analysis
+  date: '2012-11-01'
+  link: https://doi.org/gqvv77
+  _cache: 08bc31b79df92bc3d7f89c7c3ba91e2a720cd51ff434d81f58b0a52ba3c76b86
+- id: doi:10.1109/SC.2012.88
+  title: Optimizing overlay-based virtual networking through optimistic interrupts
+    and cut-through forwarding
+  authors:
+  - Zheng Cui
+  - Lei Xia
+  - Patrick G. Bridges
+  - Peter A. Dinda
+  - John R. Lange
+  publisher: 2012 International Conference for High Performance Computing, Networking,
+    Storage and Analysis
+  date: '2012-11-01'
+  link: https://doi.org/gqvv77
+  _cache: 08bc31b79df92bc3d7f89c7c3ba91e2a720cd51ff434d81f58b0a52ba3c76b86
+- id: doi:10.1177/1094342012436619
+  title: Virtual-machine-based emulation of future generation high-performance computing
+    systems
+  authors:
+  - Patrick G Bridges
+  - Dorian Arnold
+  - Kevin T Pedretti
+  - Madhav Suresh
+  - Feng Lu
+  - Peter Dinda
+  - Russ Joseph
+  - Jack Lange
+  publisher: The International Journal of High Performance Computing Applications
+  date: '2012-03-18'
+  link: https://doi.org/f32p8n
+  _cache: 6e6925495041332f430dc7a32ffde0f4aaa3fdfaeacb2ccce6471005b8b10e91
+- id: doi:10.1145/2287076.2287116
+  title: VNET/P
+  authors:
+  - Lei Xia
+  - Zheng Cui
+  - John R. Lange
+  - Yuan Tang
+  - Peter A. Dinda
+  - Patrick G. Bridges
+  publisher: Proceedings of the 21st international symposium on High-Performance Parallel
+    and Distributed Computing - HPDC '12
+  date: '2012-01-01'
+  link: https://doi.org/gqvv78
+  _cache: 441e374bef79eb7d2b7f370e3edd1d69fd30ddf091e25cd6f1eb08bc323f8fa8
+- id: doi:10.1007/978-3-642-29740-3_28
+  title: Cooperative Application/OS DRAM Fault Recovery
+  authors:
+  - Patrick G. Bridges
+  - Mark Hoemmen
+  - Kurt B. Ferreira
+  - Michael A. Heroux
+  - Philip Soltero
+  - Ron Brightwell
+  publisher: 'Euro-Par 2011: Parallel Processing Workshops'
+  date: '2012-01-01'
+  link: https://doi.org/gqvv79
+  _cache: c5c3fd0317fdc2ac24a37c857323c5c545686ea3d5684ba7c81ba5b058f37b4c
+- id: doi:10.1145/2063384.2063443
+  title: Evaluating the viability of process replication reliability for exascale
+    systems
+  authors:
+  - Kurt Ferreira
+  - Jon Stearley
+  - James H. Laros
+  - Ron Oldfield
+  - Kevin Pedretti
+  - Ron Brightwell
+  - Rolf Riesen
+  - Patrick G. Bridges
+  - Dorian Arnold
+  publisher: Proceedings of 2011 International Conference for High Performance Computing,
+    Networking, Storage and Analysis on - SC '11
+  date: '2011-01-01'
+  link: https://doi.org/bmdrsj
+  _cache: ef87cf7bb86e1dd15d4898e6f62a108dbf85d4c5faa6443704c4318367597469
+- id: doi:10.1177/1094342010369117
+  title: Exploiting Latent I/O Asynchrony in Petascale Science Applications
+  authors:
+  - Patrick Widener
+  - Matthew Wolf
+  - Hasan Abbasi
+  - Scott McManus
+  - Mary Payne
+  - Matthew Barrick
+  - Jack Pulikottil
+  - Patrick Bridges
+  - Karsten Schwan
+  publisher: The International Journal of High Performance Computing Applications
+  date: '2010-05-12'
+  link: https://doi.org/ftdmz7
+  _cache: 02bad3bbb9fdac558a41e6a589f6a298bc2850d1e09a7be8ba992689f3437365
+- id: doi:10.1145/1998412.1998425
+  title: Inferring users' online activities through traffic analysis
+  authors:
+  - Fan Zhang
+  - Wenbo He
+  - Xue Liu
+  - Patrick G. Bridges
+  publisher: Proceedings of the fourth ACM conference on Wireless network security
+    - WiSec '11
+  date: '2011-01-01'
+  link: https://doi.org/d9gd26
+  _cache: e4cd4dfd4380e727e6337647f0e3f4d1d047c5ca507e081ac577aa17c0f92a91
+- id: doi:10.1007/978-3-642-24449-0_31
+  title: "libhashckpt: Hash-Based Incremental Checkpointing Using GPU\u2019s"
+  authors:
+  - Kurt B. Ferreira
+  - Rolf Riesen
+  - Ron Brighwell
+  - Patrick Bridges
+  - Dorian Arnold
+  publisher: Recent Advances in the Message Passing Interface
+  date: '2011-01-01'
+  link: https://doi.org/brkvwt
+  _cache: 2e0f792f0fa0e006cd36fccce48bffb34ab7ea410f8d43f179069b2ca38bcf85
+- id: doi:10.1145/1952682.1952705
+  title: Minimal-overhead virtualization of a large scale supercomputer
+  authors:
+  - John R. Lange
+  - Kevin Pedretti
+  - Peter Dinda
+  - Patrick G. Bridges
+  - Chang Bae
+  - Philip Soltero
+  - Alexander Merritt
+  publisher: Proceedings of the 7th ACM SIGPLAN/SIGOPS international conference on
+    Virtual execution environments - VEE '11
+  date: '2011-01-01'
+  link: https://doi.org/c7p86s
+  _cache: c5b14b88ed1e7130429b7a4d1d6244d2efba52019954e4eefc8b52fdf025cf92
+- id: doi:10.1007/978-3-642-29740-3_34
+  title: On the Viability of Checkpoint Compression for Extreme Scale Fault Tolerance
+  authors:
+  - Dewan Ibtesham
+  - Dorian Arnold
+  - Kurt B. Ferreira
+  - Patrick G. Bridges
+  publisher: 'Euro-Par 2011: Parallel Processing Workshops'
+  date: '2012-01-01'
+  link: https://doi.org/gqvv8b
+  _cache: c18f7996c722e9e7b5361879ded501da9cfd1c8f6658c72f7c4e1add47b5aadc
+- id: doi:10.1109/IPDPS.2010.5470482
+  title: 'Palacios and Kitten: New high performance operating systems for scalable
+    virtualized and native supercomputing'
+  authors:
+  - John Lange
+  - Kevin Pedretti
+  - Trammell Hudson
+  - Peter Dinda
+  - Zheng Cui
+  - Lei Xia
+  - Patrick Bridges
+  - Andy Gocke
+  - Steven Jaconette
+  - Mike Levenhagen
+  - Ron Brightwell
+  publisher: 2010 IEEE International Symposium on Parallel &amp; Distributed Processing
+    (IPDPS)
+  date: '2010-01-01'
+  link: https://doi.org/dwrzmc
+  _cache: 7e31954fca2135ccb43e5b44e34cfcd75cfff5bb229f4451dad3bf56aa4c4d8d
+- id: doi:10.1109/CLUSTER.2010.41
+  title: The Impact of System Design Parameters on Application Noise Sensitivity
+  authors:
+  - Kurt B. Ferreira
+  - Patrick G. Bridges
+  - Ron Brightwell
+  - Kevin T. Pedretti
+  publisher: 2010 IEEE International Conference on Cluster Computing
+  date: '2010-09-01'
+  link: https://doi.org/cs5d4d
+  _cache: 464ea98e53d55e7eac3a58ffe9664e1794166e121dc736e06c3ff32ca705dd59
+- id: doi:10.1109/TC.2009.55
+  title: 'Cholla: A Framework for Composing and Coordinating Adaptations in Networked
+    Systems'
+  authors:
+  - Patrick G. Bridges
+  - Matti A. Hiltunen
+  - Richard D. Schlichting
+  publisher: IEEE Transactions on Computers
+  date: '2009-11-01'
+  link: https://doi.org/frnjgd
+  _cache: a27f8aa58ec4eb2b33f164f73635e2c7b3e86d356442f9daed17a7e7b4351926
+- id: doi:10.1002/cpe.1361
+  title: Designing and implementing lightweight kernels for capability computing
+  authors:
+  - Rolf Riesen
+  - Ron Brightwell
+  - Patrick G. Bridges
+  - Trammell Hudson
+  - Arthur B. Maccabe
+  - Patrick M. Widener
+  - Kurt Ferreira
+  publisher: 'Concurrency and Computation: Practice and Experience'
+  date: '2009-04-25'
+  link: https://doi.org/cxczd7
+  _cache: b66c0dc67386e9bb233aab44c181ae8c4ce2712921ca8565701deaa19e84d8d0
+- id: doi:10.1109/ICPPW.2009.67
+  title: Exploiting Latent I/O Asynchrony in Petascale Science Applications
+  authors:
+  - Patrick M. Widener
+  - Mary Payne
+  - Patrick Bridges
+  - Matthew Wolf
+  - Hasan Abbasi
+  - Scott McManus
+  - Karsten Schwan
+  publisher: 2009 International Conference on Parallel Processing Workshops
+  date: '2009-09-01'
+  link: https://doi.org/cj6wb7
+  _cache: c79865454cde33e0924bfeda5e5a00855c088bce276fddc71ea20ca7fd753616
+- id: doi:10.1145/1654059.1654063
+  title: Instruction-level simulation of a cluster at scale
+  authors:
+  - "Edgar A. Le\xF3n"
+  - Rolf Riesen
+  - Arthur B. Maccabe
+  - Patrick G. Bridges
+  publisher: Proceedings of the Conference on High Performance Computing Networking,
+    Storage and Analysis - SC '09
+  date: '2009-01-01'
+  link: https://doi.org/d57kfm
+  _cache: a2caac1e7cfd3aa7acd28a6d71bc51c70b39054548f299c50be7138486b8c714
+- id: doi:10.1109/TPDS.2008.126
+  title: Lightweight Online Performance Monitoring and Tuning with Embedded Gossip
+  authors:
+  - J.W. Zhu
+  - P.G. Bridges
+  - A. Maccabe
+  publisher: IEEE Transactions on Parallel and Distributed Systems
+  date: '2009-07-01'
+  link: https://doi.org/cqdnsd
+  _cache: 9afc0dfc0d30e74c910f8630efeb563b9e1575e74014cdc2810d0391e1f63bb2
+- id: doi:10.1109/IPDPS.2009.5160890
+  title: Using application communication characteristics to drive dynamic MPI reconfiguration
+  authors:
+  - Manjunath Gorentla Venkata
+  - Patrick G. Bridges
+  - Patrick M. Widener
+  publisher: 2009 IEEE International Symposium on Parallel &amp; Distributed Processing
+  date: '2009-05-01'
+  link: https://doi.org/fkpvr4
+  _cache: 90ee06995ccd1c210acccb4f254eb25838f60793c043513bc521d3abd1a3d0b7
+- id: doi:10.1109/SC.2008.5219920
+  title: Characterizing application sensitivity to OS interference using kernel-level
+    noise injection
+  authors:
+  - Kurt B. Ferreira
+  - Patrick Bridges
+  - Ron Brightwell
+  publisher: 2008 SC - International Conference for High Performance Computing, Networking,
+    Storage and Analysis
+  date: '2008-11-01'
+  link: https://doi.org/dsv5fd
+  _cache: 6d4e2d54e437d6f09e542b42d2df3ccadf01c6ef91d33405c95a7c033ab0d2cb
+- id: doi:10.1109/eScience.2008.106
+  title: Exploiting Latent I/O Asynchrony in Petascale Science Applications
+  authors:
+  - Mary Payne
+  - Patrick Widener
+  - Matthew Wolf
+  - Hasan Abbasi
+  - Scott McManus
+  - Patrick G. Bridges
+  - Karsten Schwan
+  publisher: 2008 IEEE Fourth International Conference on eScience
+  date: '2008-12-01'
+  link: https://doi.org/bbkkqw
+  _cache: 0fb7aa2d12dac02b9c216e4663b63eea10c60d0a6a3c5735d20da6135866a61f
+- id: doi:10.1109/TNET.2007.906245
+  title: A Configurable and Extensible Transport Protocol
+  authors:
+  - Patrick G. Bridges
+  - Gary T. Wong
+  - Matti Hiltunen
+  - Richard D. Schlichting
+  - Matthew J. Barrick
+  publisher: IEEE/ACM Transactions on Networking
+  date: '2007-12-01'
+  link: https://doi.org/dd7vxj
+  _cache: 1bac0c58a01bb655baf2ce9623ee3cfb09af46c94995f2ad4c0edf754780dab5
+- id: doi:10.1109/ICDCS.2007.107
+  title: 'Embedded Gossip: Lightweight Online Measurement for Large-Scale Applications'
+  authors:
+  - Wenbin Zhu
+  - Patrick G. Bridges
+  - Arthur B. Maccabe
+  publisher: 27th International Conference on Distributed Computing Systems (ICDCS
+    '07)
+  date: '2007-01-01'
+  link: https://doi.org/fkmxc4
+  _cache: 4ae9832c2ff551b0bd367f747b861fb451c8bdc7a0370d18d021f4da70267860
+- id: doi:10.1145/1328690.1328706
+  title: Light-weight application monitoring and tuning with embedded gossip
+  authors:
+  - Wenbin Zhu
+  - Patrick G. Bridges
+  - Arthur B. Maccabe
+  publisher: ACM SIGMETRICS Performance Evaluation Review
+  date: '2007-12-01'
+  link: https://doi.org/cxgq9g
+  _cache: 8359831075be90f56290c8ecce961b979b11b2a93fac4a2cb93d90cf85ad719c
+- id: doi:10.1109/IPDPS.2006.1639335
+  title: Infiniband scalability in Open MPI
+  authors:
+  - G.M. Shipman
+  - T.S. Woodall
+  - R.L. Graham
+  - A.B. Maccabe
+  - P.G. Bridges
+  publisher: Proceedings 20th IEEE International Parallel &amp; Distributed Processing
+    Symposium
+  date: '2006-01-01'
+  link: https://doi.org/dzhk4c
+  _cache: 2a5c99e4efa15c3f04869933d3a4c8606732d4a90000902ad9b8dbb2139202ac
+- id: doi:10.1007/11846802_20
+  title: 'MPI/CTP: A Reconfigurable MPI for HPC Applications'
+  authors:
+  - Manjunath Gorentla Venkata
+  - Patrick G. Bridges
+  publisher: Recent Advances in Parallel Virtual Machine and Message Passing Interface
+  date: '2006-01-01'
+  link: https://doi.org/djstvw
+  _cache: 68fc2eaef1b4103c7efd0f73df3de62614c67b8d2379aaf605ca8d788c108125
+- id: doi:10.1145/1131322.1131327
+  title: System software for high end computing
+  authors:
+  - Patrick G. Bridges
+  - Arthur B. MacCabe
+  - Orran Krieger
+  publisher: ACM SIGOPS Operating Systems Review
+  date: '2006-04-01'
+  link: https://doi.org/dhpnnq
+  _cache: ccdc58d3040d78fa3601faf06eabf21f7cb5489a63eb781b894f4c3f05abe462
+- id: doi:10.1145/1131322.1131330
+  title: Towards a framework for dedicated operating systems development in high-end
+    computing systems
+  authors:
+  - Jean-Charles Tournier
+  - Patrick G. Bridges
+  - Arthur B. MacCabe
+  - Patrick M. Widener
+  - Zaid Abudayyeh
+  - Ron Brightwell
+  - Rolf Riesen
+  - Trammel Hudson
+  publisher: ACM SIGOPS Operating Systems Review
+  date: '2006-04-01'
+  link: https://doi.org/b6n9fk
+  _cache: 268d9dc26450dc1c97c0cb77f09a4b659dbbd867da1ea854be8a6032d29eef83
+- id: doi:10.1109/CLUSTR.2005.347048
+  title: Online Critical Path Profiling for Parallel Applications
+  authors:
+  - Wenbin Zhu
+  - Patrick G. Bridges
+  - Arthur B. Maccabe
+  publisher: 2005 IEEE International Conference on Cluster Computing
+  date: '2005-09-01'
+  link: https://doi.org/dqcfxr
+  _cache: be9483f0556b4d166e8fa8b5da8b509635c72fc4e678f8db2d44cf2b5238dbf0
+- id: doi:10.1109/CLUSTR.2003.1253322
+  title: A performance comparison of Linux and a lightweight kernel
+  authors:
+  - ' Brightwell'
+  - ' Riesen'
+  - ' Underwood'
+  - ' Hudson'
+  - ' Bridges'
+  - ' Maccabe'
+  publisher: Proceedings IEEE International Conference on Cluster Computing CLUSTR-03
+  date: '2003-01-01'
+  link: https://doi.org/bq9q9x
+  _cache: 76e2f8e9773ea3f440487a9902ff5056563154a9f4df391aeb953da7272bd62f
