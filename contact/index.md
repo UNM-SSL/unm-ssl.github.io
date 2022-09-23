@@ -7,8 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+The lab's mailing address is: Scalable Systems Lab Department of Computer Science University of New Mexico MSC01-1130 Albuquerque, NM 87131-0001 The lab is located in Center for Advanced Research Computing (CARC). Our physical mailing address (e.g. for UPS deliveries) is: Scalable Systems Lab Center for Advanced Research Computing University of New Mexico 1601 Central Avenue Albuquerque, NM 87131-0001
 
 {%
   include link.html
