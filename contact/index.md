@@ -42,9 +42,9 @@ The lab's mailing address is: Scalable Systems Lab Department of Computer Scienc
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+Scalable Systems Lab Center for Advanced Research Computing University of New Mexico 
+1601 Central Avenue 
+Albuquerque, NM 87131-0001
 {:.center}
 
 {% capture col1 %}
