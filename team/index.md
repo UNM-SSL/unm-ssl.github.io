@@ -7,10 +7,8 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 -- Donny: currently editing
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+The University of New Mexico's Scalable Systems Lab (UNM-SSL) is a diverse group of students and professionals. Their research includes on HPC Mapping, Network Performance Tuning, Performance Prediction, OTHER STUFF. Several work closely with the Sandia and Los Alamos National laboratories.
 
 {% include section.html %}
 
@@ -41,10 +39,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+NOT SURE WHAT TO PUT HERE
 {% include section.html %}
 
 ## Join
