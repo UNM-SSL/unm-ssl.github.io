@@ -1,67 +1,434 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1109/cluster48925.2021.00028
+  title: 'MiniMod: A Modular Miniapplication Benchmarking Framework for HPC'
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-  - knowledge graphs
-  _cache: 2b8aa76c98be2f26481ab15dc135eb446fa9ef6f94af175c9639d1a45d538cf4
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+  - W. Pepper Marts
+  - Matthew G. F. Dosanjh
+  - Scott Levy
+  - Whit Schonbein
+  - Ryan E. Grant
+  - Patrick G. Bridges
+  publisher: 2021 IEEE International Conference on Cluster Computing (CLUSTER)
+  date: '2021-09-01'
+  link: https://doi.org/gqvv6c
+  _cache: b054d365dc877ad3720b9c65dc3377007efbfef39851236bc2b37850506c4854
+- id: doi:10.1109/escience51609.2021.00028
+  title: 'SAMPRA: Scalable Analysis, Management, Protection of Research Artifacts'
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  _cache: 189b56e366896b6a90ae8d64fc4e605797d2bdd07674653d81ae533b2f1e4672
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - Patrick G. Bridges
+  - Zeinab Akhavan
+  - Jonathan Wheeler
+  - Hussein Al-Azzawi
+  - Orlando Albillar
+  - Grace Faustino
+  publisher: 2021 IEEE 17th International Conference on eScience (eScience)
+  date: '2021-09-01'
+  link: https://doi.org/gqvv6d
+  _cache: c6b2bc910c995024ed996ccdcf43ee461ba10919f7c2e671c3fda8de08e0a15a
+- id: doi:10.1109/PMBS51919.2020.00011
+  title: Lightweight Measurement and Analysis of HPC Performance Variability
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-  - type: preprint
-    link: https://doi.org/10.7287/peerj.preprints.3100v1
-  - type: manubot
-    link: https://greenelab.github.io/scihub-manuscript/
-  - type: source
-    link: https://github.com/greenelab/scihub-manuscript
-    text: Manuscript source
-  - type: source
-    link: https://github.com/greenelab/scihub
-    text: Analyses source
-  _cache: 483a564e9ddf847e6372cafb31de4673771c3e4da664c0d86a7ea7c38c20318d
+  - Jered Dominguez-Trujillo
+  - Keira Haskins
+  - Soheila Jafari Khouzani
+  - Christopher Leap
+  - Sahba Tashakkori
+  - Quincy Wofford
+  - Trilce Estrada
+  - Patrick G. Bridges
+  - Patrick M. Widener
+  publisher: 2020 IEEE/ACM Performance Modeling, Benchmarking and Simulation of High
+    Performance Computer Systems (PMBS)
+  date: '2020-11-01'
+  link: https://doi.org/gnzdcs
+  _cache: 50f9775715b026e72e907b96638b24412ea641735b7d63291a924d08774bdaa6
+- id: doi:10.25827/5S8C-N515
+  title: New Mexico Decedent Image Database (NMDID)
+  authors:
+  - Heather Edgar
+  - Shamsi Daneshvari Berry
+  - Emily Moes
+  - Natalie Adolphi
+  - Patrick Bridges
+  - KB Nolte
+  publisher: University of New Mexico
+  date: '2020-01-01'
+  link: https://doi.org/gqvv6f
+  _cache: 0833db742f722fb0f5761aa44ae9cdfe273da0fa5e313bbd02daa6eeb1d72a53
+- id: doi:10.1016/j.jcp.2019.109193
+  title: Adaptive mesh refinement in the fast lane
+  authors:
+  - D. Dunning
+  - W. Marts
+  - R.W. Robey
+  - P. Bridges
+  publisher: Journal of Computational Physics
+  date: '2020-04-01'
+  link: https://doi.org/gm5gdd
+  _cache: a72e9a1a7bd1f7728edf533d473b1f1c4707d363c94465c89a8f29e866a2589f
+- id: doi:10.1109/CCGRID.2019.00035
+  title: 'Fuzzy Matching: Hardware Accelerated MPI Communication Middleware'
+  authors:
+  - Matthew G. F. Dosanjh
+  - Whit Schonbein
+  - Ryan E. Grant
+  - Patrick G. Bridges
+  - S. Mahdieh Gazimirsaeed
+  - Ahmad Afsahi
+  publisher: 2019 19th IEEE/ACM International Symposium on Cluster, Cloud and Grid
+    Computing (CCGRID)
+  date: '2019-05-01'
+  link: https://doi.org/gqvv6g
+  _cache: 9a33d6146198a55ac4622c8cc8496aefa1b1a648934279e0c674f78828612eab
+- id: doi:10.1002/cpe.5158
+  title: "Tail queues: A multi\u2010threaded matching architecture"
+  authors:
+  - Matthew G.F. Dosanjh
+  - Ryan E. Grant
+  - Whit Schonbein
+  - Patrick G. Bridges
+  publisher: 'Concurrency and Computation: Practice and Experience'
+  date: '2019-02-06'
+  link: https://doi.org/gqvv6h
+  _cache: 2902528c1d160135beb8675d8972147c714763864eae403fb074cb7b73f2333c
+- id: doi:10.1002/cpe.4341
+  title: An evaluation of the state of time synchronization on leadership class supercomputers
+  authors:
+  - Terry Jones
+  - George Ostrouchov
+  - Gregory A. Koenig
+  - Oscar H. Mondragon
+  - Patrick G. Bridges
+  publisher: 'Concurrency and Computation: Practice and Experience'
+  date: '2017-10-09'
+  link: https://doi.org/gqvv6j
+  _cache: a53cc390e755a07e2c34d75b79b4177f3fc2d209b2b30417c8f11289dc763165
+- id: doi:10.1145/3225058.3225114
+  title: Improving MPI Multi-threaded RMA Communication Performance
+  authors:
+  - Nathan Hjelm
+  - Matthew G. F. Dosanjh
+  - Ryan E. Grant
+  - Taylor Groves
+  - Patrick Bridges
+  - Dorian Arnold
+  publisher: Proceedings of the 47th International Conference on Parallel Processing
+  date: '2018-08-13'
+  link: https://doi.org/gqvv6k
+  _cache: f181fd41c0247c696ca9cac32b726d73223738e044dffe2967043d0fc2834565
+- id: doi:10.1007/978-3-319-96983-1_34
+  title: Measuring Multithreaded Message Matching Misery
+  authors:
+  - Whit Schonbein
+  - Matthew G. F. Dosanjh
+  - Ryan E. Grant
+  - Patrick G. Bridges
+  publisher: 'Euro-Par 2018: Parallel Processing'
+  date: '2018-01-01'
+  link: https://doi.org/gqvv6m
+  _cache: 747d977b095bbc3e15f8e9f2d0c0a414d49a45e1f9960226ea5b8719c170cba9
+- id: doi:10.1145/3225058.3225130
+  title: The Case for Semi-Permanent Cache Occupancy
+  authors:
+  - Matthew G. F. Dosanjh
+  - S. Mahdieh Ghazimirsaeed
+  - Ryan E. Grant
+  - Whit Schonbein
+  - Michael J. Levenhagen
+  - Patrick G. Bridges
+  - Ahmad Afsahi
+  publisher: Proceedings of the 47th International Conference on Parallel Processing
+  date: '2018-08-13'
+  link: https://doi.org/gqvv6n
+  _cache: 0ff19118c165705e90b1789c9845f5d94b67f0041e21a14a5db302ee7546d5b1
+- id: doi:10.1109/CLUSTER.2017.99
+  title: Evaluating the Viability of Using Compression to Mitigate Silent Corruption
+    of Read-Mostly Application Data
+  authors:
+  - Scott Levy
+  - Kurt B. Ferreira
+  - Patrick G. Bridges
+  publisher: 2017 IEEE International Conference on Cluster Computing (CLUSTER)
+  date: '2017-09-01'
+  link: https://doi.org/gqvv6p
+  _cache: 1bdd0ac7432dee4b7c9d0f751d753a5568e08768c8aa2c14aecefb1780b01ffb
+- id: doi:10.1145/2931088.2931094
+  title: A Cross-Enclave Composition Mechanism for Exascale System Software
+  authors:
+  - Noah Evans
+  - Kevin Pedretti
+  - Brian Kocoloski
+  - John Lange
+  - Michael Lang
+  - Patrick G. Bridges
+  publisher: Proceedings of the 6th International Workshop on Runtime and Operating
+    Systems for Supercomputers
+  date: '2016-06-01'
+  link: https://doi.org/gqvv6q
+  _cache: aa046cddb4bd36be8adf579f3d7e5457a9016d7871061add86d5caf1a1b7e78d
+- id: doi:10.1145/2966884.2966920
+  title: How I Learned to Stop Worrying and Love In Situ Analytics
+  authors:
+  - Scott Levy
+  - Kurt B. Ferreira
+  - Patrick Widener
+  - Patrick G. Bridges
+  - Oscar H. Mondragon
+  publisher: Proceedings of the 23rd European MPI Users' Group Meeting
+  date: '2016-09-25'
+  link: https://doi.org/gqvv6r
+  _cache: 1b974ac80b9d62b4110dad8ad0a4b553063499e14564bc858c266345f6d9f648
+- id: doi:10.1109/SC.2016.27
+  title: Improving Application Resilience to Memory Errors with Lightweight Compression
+  authors:
+  - Scott Levy
+  - Kurt B. Ferreira
+  - Patrick G. Bridges
+  publisher: 'SC16: International Conference for High Performance Computing, Networking,
+    Storage and Analysis'
+  date: '2016-11-01'
+  link: https://doi.org/gqvv6s
+  _cache: ab9087f0d6211d7550d4d3ff6765dab5243905b7805523d4d8aabf6ec818f6be
+- id: doi:10.1109/CCGrid.2016.84
+  title: 'RMA-MT: A Benchmark Suite for Assessing MPI Multi-threaded RMA Performance'
+  authors:
+  - Matthew G. F. Dosanjh
+  - Taylor Groves
+  - Ryan E. Grant
+  - Ron Brightwell
+  - Patrick G. Bridges
+  publisher: 2016 16th IEEE/ACM International Symposium on Cluster, Cloud and Grid
+    Computing (CCGrid)
+  date: '2016-05-01'
+  link: https://doi.org/gqvv6t
+  _cache: fb3c97a1c8aa093af2596108a3c056f00bac0ea747ab95d7d7e64192c36bc29a
+- id: doi:10.1109/CCGrid.2016.42
+  title: Scheduling In-Situ Analytics in Next-Generation Applications
+  authors:
+  - Oscar H. Mondragon
+  - Patrick G. Bridges
+  - Scott Levy
+  - Kurt B. Ferreira
+  - Patrick Widener
+  publisher: 2016 16th IEEE/ACM International Symposium on Cluster, Cloud and Grid
+    Computing (CCGrid)
+  date: '2016-05-01'
+  link: https://doi.org/gqvv6v
+  _cache: dc7ba25744829a016ddb8507cdc342c32db40107c537aa3d811798d6a0db1675
+- id: doi:10.1007/978-3-319-50995-2_16
+  title: 'SHMEM-MT: A Benchmark Suite for Assessing Multi-threaded SHMEM Performance'
+  authors:
+  - Hans Weeks
+  - Matthew G. F. Dosanjh
+  - Patrick G. Bridges
+  - Ryan E. Grant
+  publisher: OpenSHMEM and Related Technologies. Enhancing OpenSHMEM for Hybrid Environments
+  date: '2016-01-01'
+  link: https://doi.org/gqvv6w
+  _cache: 40566124f4992bfff90d208fda63767b6471b5b089f7d3a23570ba9810f603d4
+- id: doi:10.1109/SC.2016.32
+  title: Understanding Performance Interference in Next-Generation HPC Systems
+  authors:
+  - Oscar H. Mondragon
+  - Patrick G. Bridges
+  - Scott Levy
+  - Kurt B. Ferreira
+  - Patrick Widener
+  publisher: 'SC16: International Conference for High Performance Computing, Networking,
+    Storage and Analysis'
+  date: '2016-11-01'
+  link: https://doi.org/gn27k9
+  _cache: 11967e9c9b1d46775375f4c464258c37ea2e25ff0966408038f873da639d46e3
+- id: doi:10.1177/1094342014560354
+  title: A study of the viability of exploiting memory content similarity to improve
+    resilience to memory errors
+  authors:
+  - Scott Levy
+  - Kurt B Ferreira
+  - Patrick G Bridges
+  - Aidan P Thompson
+  - Christian Trott
+  publisher: The International Journal of High Performance Computing Applications
+  date: '2014-12-09'
+  link: https://doi.org/f62f8w
+  _cache: 32977aea503bd615d5fb8a18592f44a30f7766c803314ba4c462c6d9d821a972
+- id: doi:10.1145/2831129.2831134
+  title: Preparing for exascale
+  authors:
+  - Patrick G. Bridges
+  - Matthew G. F. Dosanjh
+  - Ryan Grant
+  - Anthony Skjellum
+  - Shane Farmer
+  - Ron Brightwell
+  publisher: Proceedings of the 3rd Workshop on Exascale MPI - ExaMPI '15
+  date: '2015-01-01'
+  link: https://doi.org/gqvv6x
+  _cache: 2c4825bc28a09ab731dce543233ed3390f5449d744f10a51b53b0d211c30069e
+- id: doi:10.1145/2768405.2768413
+  title: Quantifying Scheduling Challenges for Exascale System Software
+  authors:
+  - Oscar H. Mondragon
+  - Patrick G. Bridges
+  - Terry Jones
+  publisher: Proceedings of the 5th International Workshop on Runtime and Operating
+    Systems for Supercomputers
+  date: '2015-06-16'
+  link: https://doi.org/gqvv6z
+  _cache: 3e483bbec6e48d6e80a424ae50042490a2f6cdadfd0a9317243c9767203be75a
+- id: doi:10.1109/CLUSTER.2015.55
+  title: Re-evaluating Network Onload vs. Offload for the Many-Core Era
+  authors:
+  - Matthew G.F. Dosanjh
+  - Ryan E. Grant
+  - Patrick G. Bridges
+  - Ron Brightwell
+  publisher: 2015 IEEE International Conference on Cluster Computing
+  date: '2015-09-01'
+  link: https://doi.org/gqvv62
+  _cache: ee5323033dc92b70c504417dfd9ba8180732404ee72c2810ae1599a4776ab4c1
+- id: doi:10.1145/2768405.2768412
+  title: System-Level Support for Composition of Applications
+  authors:
+  - Brian Kocoloski
+  - John Lange
+  - Hasan Abbasi
+  - David E. Bernholdt
+  - Terry R. Jones
+  - Jai Dayal
+  - Noah Evans
+  - Michael Lang
+  - Jay Lofstead
+  - Kevin Pedretti
+  - Patrick G. Bridges
+  publisher: Proceedings of the 5th International Workshop on Runtime and Operating
+    Systems for Supercomputers
+  date: '2015-06-16'
+  link: https://doi.org/gqvv63
+  _cache: ec759a0219b1083ca320513c83e0af6ddefbe07238a8a0aff03268c2499c2927
+- id: doi:10.1016/j.future.2013.04.017
+  title: Accelerating incremental checkpointing for extreme-scale computing
+  authors:
+  - Kurt B. Ferreira
+  - Rolf Riesen
+  - Patrick Bridges
+  - Dorian Arnold
+  - Ron Brightwell
+  publisher: Future Generation Computer Systems
+  date: '2014-01-01'
+  link: https://doi.org/f5mzph
+  _cache: 06c684dfc41cf1f9795b3350522eaa9286a727a9ca94fac1afa1d9e9de3eea34
+- id: doi:10.1145/2612262.2612269
+  title: An evaluation of BitTorrent's performance in HPC environments
+  authors:
+  - Matthew G. F. Dosanjh
+  - Patrick G. Bridges
+  - Suzanne M. Kelly
+  - James H. Laros
+  - Courtenay T. Vaughan
+  publisher: Proceedings of the 4th International Workshop on Runtime and Operating
+    Systems for Supercomputers - ROSS '14
+  date: '2014-01-01'
+  link: https://doi.org/gqvv64
+  _cache: 851f43a5bb1fd2d76e33abfb3f31a782e1277f015abfe01cb27dac10d59ad11e
+- id: doi:10.1109/ICPP.2014.49
+  title: 'Characterizing the Impact of Rollback Avoidance at Extreme-Scale: A Modeling
+    Approach'
+  authors:
+  - Scott Levy
+  - Kurt B. Ferreira
+  - Patrick G. Bridges
+  publisher: 2014 43rd International Conference on Parallel Processing
+  date: '2014-09-01'
+  link: https://doi.org/gqvv65
+  _cache: 1323a68f3d7a6cda84db872e33143e2dde843664e864c7e5ea30cf4722fd9e97
+- id: doi:10.1007/s10586-013-0274-7
+  title: Fast VMM-based overlay networking for bridging the cloud and high performance
+    computing
+  authors:
+  - Lei Xia
+  - Zheng Cui
+  - John Lange
+  - Yuan Tang
+  - Peter Dinda
+  - Patrick Bridges
+  publisher: Cluster Computing
+  date: '2013-05-30'
+  link: https://doi.org/gqvv66
+  _cache: 7dcafd36f9d521e09dc7245fe9db0a91a37011aa6e1b88d2b8d672ed4782d3d8
+- id: doi:10.1145/2491661.2481428
+  title: A gossip-based approach to exascale system services
+  authors:
+  - Philip Soltero
+  - Patrick Bridges
+  - Dorian Arnold
+  - Michael Lang
+  publisher: Proceedings of the 3rd International Workshop on Runtime and Operating
+    Systems for Supercomputers - ROSS '13
+  date: '2013-01-01'
+  link: https://doi.org/gqvv67
+  _cache: bb0cd7e858e1a4540ae96188b691c09f8bd64948c2ac5853dc30eff68bd3253d
+- id: doi:10.1007/978-3-642-54420-0_70
+  title: 'Asking the Right Questions: Benchmarking Fault-Tolerant Extreme-Scale Systems'
+  authors:
+  - Patrick M. Widener
+  - Kurt B. Ferreira
+  - Scott Levy
+  - Patrick G. Bridges
+  - Dorian Arnold
+  - Ron Brightwell
+  publisher: 'Euro-Par 2013: Parallel Processing Workshops'
+  date: '2014-01-01'
+  link: https://doi.org/gqvv68
+  _cache: 1e91123ac1088f5bcc79310a6cda86eb6c081963edaca4ccc3aa258b9e8a62e8
+- id: doi:10.1145/2491661.2481432
+  title: Evaluating the feasibility of using memory content similarity to improve
+    system resilience
+  authors:
+  - Scott Levy
+  - Patrick G. Bridges
+  - Kurt B. Ferreira
+  - Aidan P. Thompson
+  - Christian Trott
+  publisher: Proceedings of the 3rd International Workshop on Runtime and Operating
+    Systems for Supercomputers - ROSS '13
+  date: '2013-01-01'
+  link: https://doi.org/gqvv69
+  _cache: ead15053068f011c1d5d3f82cf695db70df9ceccdced71d6383b52b402e6e838
+- id: doi:10.1007/s10586-011-0178-3
+  title: The impact of system design parameters on application noise sensitivity
+  authors:
+  - Kurt B. Ferreira
+  - Patrick G. Bridges
+  - Ron Brightwell
+  - Kevin T. Pedretti
+  publisher: Cluster Computing
+  date: '2011-09-23'
+  link: https://doi.org/c6759k
+  _cache: 9bb93d510ad0427817104108581b95ca0d0ea49c8ad584dc3cd8bb8a4c5c52b0
+- id: doi:10.1145/2465813.2465820
+  title: Using unreliable virtual hardware to inject errors in extreme-scale systems
+  authors:
+  - Scott Levy
+  - Matthew G.F. Dosanjh
+  - Patrick G. Bridges
+  - Kurt B. Ferreira
+  publisher: Proceedings of the 3rd Workshop on Fault-tolerance for HPC at extreme
+    scale - FTXS '13
+  date: '2013-01-01'
+  link: https://doi.org/gqvv7b
+  _cache: cfbe766ddef00a0f12aa2364958d0e4b02be956771166a61dac5aed2139627b9
+- id: doi:10.1145/2462902.2462912
+  title: Virtual TCP offload
+  authors:
+  - Zheng Cui
+  - Patrick G. Bridges
+  - John R. Lange
+  - Peter A. Dinda
+  publisher: Proceedings of the 22nd international symposium on High-performance parallel
+    and distributed computing
+  date: '2013-06-17'
+  link: https://doi.org/gqvv7c
+  _cache: 296166f280a2f5afb6d12d9948973367144f39751707d871e0d6ad865ee62105
