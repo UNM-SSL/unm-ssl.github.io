@@ -53,7 +53,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 #### Pandas for Data Visualization
 [Powerpoints](https://github.com/UNM-SSL/Seminar-Spring2022/tree/master/pandas_visualization)
-
+[Video Tutorial](https://youtu.be/o0Fv2x3A-ms)
 {% include section.html %}
 
 <!-- ## More -->
