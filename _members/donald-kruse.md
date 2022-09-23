@@ -11,6 +11,7 @@ links:
   github: DonaldKruse 
   <>twitter: uptonogoode
   instagram: _dksax_
+  <>youtube: channel/UCH3qFG8S5wBNWQ8geV-1mPg
 ---
 
 Donald Kruse is a graduate student at the University of New Mexico, currently researching UCX/OpenMPI parameter tuning at Sandia National Laboratories.
