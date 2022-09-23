@@ -13,9 +13,9 @@ The lab's mailing address is: Scalable Systems Lab Department of Computer Scienc
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="patrickb@unm.edu"
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="mailto:patrickb@unm.edu"
   style="button"
 %}
 {%
