@@ -1,8 +1,8 @@
 ---
 name: Andres Quan
 image: https://avatars.githubusercontent.com/u/12589848?v=4
-description: Studying HPC Languages and trying to eventually make an improvement to Legion. 
-role: Student
+description: Graduate Student
+role: phd
 aliases:
   - Quan
 links:
