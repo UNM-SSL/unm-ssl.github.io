@@ -2,14 +2,15 @@
 name: Donald Kruse 
 image: images/member-DonaldKruse.jpg
 description: Graduate Student 
-role: Healer/Grad Student
+role: phd 
 aliases:
   - Donny 
 links:
   <>orcid: 0000-0001-8713-9213
-  email: place holder email 
+  email: krused@unm.edu 
+  github: DonaldKruse 
   <>twitter: uptonogoode
-  <>instagram: uptonogoode
+  instagram: _dksax_
 ---
 
 Donald Kruse is a graduate student at the University of New Mexico, currently researching UCX/OpenMPI parameter tuning at Sandia National Laboratories.
