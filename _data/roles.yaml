@@ -17,6 +17,10 @@ undergrad:
 programmer:
   icon: fas fa-code
   text: Programmer
+  
+masters:
+  icon: fas fa-code
+  text: MS Student
 
 mascot:
   icon: fas fa-dog
