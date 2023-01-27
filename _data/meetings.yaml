@@ -1,0 +1,54 @@
+- title: CUP-ECS Current Research
+  group: standing
+  link: cup-ecs.github.io
+  time: Friday, 11:00am
+  description: A weekly zoom standing meeting at 11:00am Mountain Time to discuss research progress on efforts with the associated CUP-ECS DOE PSAAP Center with which the UNM Scalable Systems Lab is associated.
+  tags:
+    - meeting
+    - status
+
+- title: Streaming Data Research
+  group: standing
+  location: Farris Engineering Center Room #2410
+  time: Fridays biweekly, 1:00pm
+  description: A weekly standing meeting currently on Fridays at 1:00pm Mountain Time to discuss research by lab members working on streaming data analysis. Will be rescheduling to one of T/W/Th given Mark Eberlein's schedule and to avoid the spring CUP-ECS colloquia.
+  tags:
+    - meeting
+    - status
+
+- title: Standing Group Status Meeting 
+  subtitle: Status Meetings
+  group: standing
+  location: Farris Engineering Center Room #2410
+  description: Weekly discssion by SSL team members at 2:00pm on Fridays in Farris #2410, often with a particular scheduled topic as shown below. If no specific topic is scheduled, this is a group status meeting.
+  tags:
+    - meeting
+    - status
+
+- title: CUP-ECS Colloquiua
+  group: related
+  location: Farris Engineering Center Room #2410
+  time: Fridays bi-weekly in the Spring, 1:00pm
+  description: A standing as-needed meeting to discuss research by lab members working on streaming data analysis.
+  tags:
+    - meeting
+    - colloquiua
+
+- title: Communication Implementation Material Development 
+  subtitle: First Programming Assignment Development
+  group: scheduled
+  date: 2023-01-27 2:00pm
+  description: Initial discussion on Friday, January 27, 2023 of a proposed first programming assignment for a class on how to implement high-speed communication software systems.
+  tags:
+    - meeting
+    - software
+    - MPI
+
+- title: Paper Review Discussion
+  subtitle: ICDCS Paper Submissions
+  group: scheduled
+  date: 2023-02-10 2:00pm
+  description: Discussion of papers being reviewed for ICDCS 2023 at the standing group meeting.
+  tags:
+    - meeting
+    - paper review
