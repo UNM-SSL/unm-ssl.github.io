@@ -22,6 +22,10 @@ masters:
   icon: fas fa-code
   text: MS Student
 
+alumni:
+  icon: fas fa-graduation-cap
+  text: Lab Alumni
+
 mascot:
   icon: fas fa-dog
   text: Mascot
