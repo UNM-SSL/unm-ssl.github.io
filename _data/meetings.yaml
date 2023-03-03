@@ -35,6 +35,16 @@
     - colloquiua
 
 - title: Communication Implementation Material Development 
+  subtitle: Programming Assignment Detailing 
+  group: scheduled
+  date: 2023-02-24 2:00pm
+  description: Work on details of proposed first programming assignment for a class on how to implement high-speed communication software systems.
+  tags:
+    - meeting
+    - software
+    - MPI
+    
+- title: Communication Implementation Material Development 
   subtitle: First Programming Assignment Development
   group: scheduled
   date: 2023-01-27 2:00pm
@@ -44,6 +54,15 @@
     - software
     - MPI
 
+- title: Paper Review Discussion
+  subtitle: ICDCS Paper Submissions #2
+  group: scheduled
+  date: 2023-03-03 2:00pm
+  description: Additional Discussion of paper being reviewed for ICDCS 2023 at the standing group meeting.
+  tags:
+    - meeting
+    - paper review
+    
 - title: Paper Review Discussion
   subtitle: ICDCS Paper Submissions
   group: scheduled
