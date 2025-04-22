@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 # jekyll
 gem "jekyll"
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8"
 
 # plugins
 group :jekyll_plugins do
